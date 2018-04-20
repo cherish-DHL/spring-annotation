@@ -9,9 +9,8 @@ public class MyImportSelector implements ImportSelector {
 	//返回值，就是到导入到容器中的组件全类名
 	//AnnotationMetadata:当前标注@Import注解的类的所有注解信息
 	public String[] selectImports(AnnotationMetadata importingClassMetadata) {
-		// TODO Auto-generated method stub
 		//importingClassMetadata
-		//方法不要返回null值
+		//方法不要返回null值,否则会报空指针异常
 		return new String[]{"com.hiveview.bean.Blue","com.hiveview.bean.Yellow"};
 	}
 
