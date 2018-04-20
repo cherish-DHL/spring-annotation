@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Blue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Car.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Cat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Color.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/ColorFactoryBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/MyBeanPostProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/RainBow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Red.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/bean/Yellow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/condition/LinuxCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/condition/MyImportBeanDefinitionRegistrar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/condition/MyImportSelector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/condition/WindowsCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/config/MainConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/config/MainConfig2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiveview/config/MyTypeFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_AOP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_Autowired.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_Ext.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_LifeCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_Profile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_PropertyValue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/hiveview/IOCTest_Tx.java" charset="GBK" />
+  </component>
+</project>
