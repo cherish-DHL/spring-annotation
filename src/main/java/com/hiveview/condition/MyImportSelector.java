@@ -10,7 +10,7 @@ public class MyImportSelector implements ImportSelector {
 	//AnnotationMetadata:当前标注@Import注解的类的所有注解信息
 	public String[] selectImports(AnnotationMetadata importingClassMetadata) {
 		//importingClassMetadata
-		//方法不要返回null值,否则会报空指针异常
+		//方法不要返回null值,可以返回空数组，否则会报空指针异常
 		return new String[]{"com.hiveview.bean.Blue","com.hiveview.bean.Yellow"};
 	}
 
